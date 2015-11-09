@@ -5,3 +5,5 @@ THIS IS FOUR
 =======
 this is three
 >>>>>>> origin/master
+----
+this is five
