@@ -7,3 +7,5 @@ this is three
 >>>>>>> origin/master
 ----
 this is five
+------
+THIS IS SIX
